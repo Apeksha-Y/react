@@ -1,0 +1,11 @@
+.feature-card {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin: 10px 0;
+  }
+  
+  .feature-card h4 {
+    font-size: 18px;
+  }
+  
